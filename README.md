@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kato but my online handle I known as is @zzeroyzz
-- 👀 Take a look around and view a few project that I have 
+- 👀 Take a look around
 - 📫 Check out my linkedin here: https://www.linkedin.com/in/kato-hernandez-92b1801ab/
 
 <!---
