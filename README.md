@@ -1,4 +1,4 @@
-👋 Hey! I’m Kato Hernandez, a Full-Stack Developer & Designer with a passion for crafting smooth web experiences, AI-driven features, and engaging animations. I'm also a React and TypeScript enthusiast, always exploring new tools and frameworks to keep pushing the limits of what's possible. When I’m not coding, you’ll find me experimenting with animations, mentoring devs, or working on personal projects like katos-portfolio.
+👋 Hey! I’m Kato Hernandez, a Full-Stack Developer & Designer with a passion for crafting smooth web experiences, AI-driven features, and engaging animations. I'm also a React and TypeScript enthusiast, always exploring new tools and frameworks to keep pushing the limits of what's possible. When I’m not coding, you’ll find me experimenting with animations, mentoring devs, or working on personal projects.
 
 🌎 Based in Atlanta, GA.
 
