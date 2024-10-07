@@ -29,6 +29,9 @@
 <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
   <h2>Catch up on my latest blog post:</h2>
   <a href="https://dev.to/zzeroyzz/building-a-simple-snake-game-using-html-css-and-javascript-3kg7" style="text-decoration: none; color: black;">🐍 Building a Simple Snake Game Using HTML, CSS, and JavaScript</a>
+	<br/>
+	  <a href="https://dev.to/zzeroyzz/getting-started-with-kubernetes-a-beginners-guide-to-container-orchestration-5g4l" style="text-decoration: none; color: black;">👩🏽‍💻 Getting Started with Kubernetes: A Beginner’s Guide to Container Orchestration</a>
+
 </div>
 
 
