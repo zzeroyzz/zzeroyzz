@@ -1,9 +1,12 @@
-👋 Hey! I’m Kato Hernandez, a Full-Stack Developer & Designer with a passion for crafting smooth web experiences, AI-driven features, and engaging animations. I'm also a React and TypeScript enthusiast, always exploring new tools and frameworks to keep pushing the limits of what's possible. When I’m not coding, you’ll find me experimenting with animations, mentoring devs, or working on personal projects.
+ <h2>Welcome</h2>
+ <p></p>
+👋 Hey! I’m Kato, a Full-Stack Developer & Designer with a passion for crafting smooth web experiences, AI-driven features, and engaging animations. I'm also a React and TypeScript enthusiast, always exploring new tools and frameworks to keep pushing the limits of what's possible. When I’m not coding, you’ll find me experimenting with animations, mentoring devs, or working on personal projects.
 
-🌎 Based in Atlanta, GA.
 
-Stacks I work with:
-<div align="center">
+ <h3>🌎 Based in Atlanta, GA</p>
+
+ <h2> Stacks I work with: </h2>
+<div >
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code>
@@ -24,7 +27,13 @@ Stacks I work with:
 </div>
 
 <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
-  <p>Let’s Connect:</p>
+  <h2>Catch up on my latest blog post:</h2>
+  <a href="https://dev.to/zzeroyzz/building-a-simple-snake-game-using-html-css-and-javascript-3kg7" style="text-decoration: none; color: black;">🐍 Building a Simple Snake Game Using HTML, CSS, and JavaScript</a>
+</div>
+
+
+<div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
+  <h2>Let’s Connect:</h2>
   <a href="https://katosportfolio.netlify.app/" style="text-decoration: none; color: black;">💼 Check out my portfolio</a>
   <br/>
   <a href="https://www.linkedin.com/in/kato-hernandez-92b1801ab/" style="text-decoration: none; color: black;">💌 Reach out on LinkedIn</a>
